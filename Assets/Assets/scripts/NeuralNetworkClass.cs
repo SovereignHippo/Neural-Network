@@ -106,6 +106,7 @@ public class NeuralNetworkClass
 
     //}
 
+    //Learn 2.0
     public void Learn(DataPoint[] trainingBatch, float learnRate)
     {
         foreach (DataPoint datapoint in trainingBatch)
