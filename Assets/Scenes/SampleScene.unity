@@ -6425,7 +6425,7 @@ MonoBehaviour:
   safeColor: {r: 0, g: 0, b: 1, a: 1}
   dangerColor: {r: 1, g: 0, b: 0, a: 1}
   secoundSafeColor: {r: 0, g: 0.4117647, b: 0, a: 1}
-  learnRate: 3
+  learnRate: 1
   dataPoints:
   - {fileID: 100408479}
   - {fileID: 820925580}
